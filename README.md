@@ -1,4 +1,4 @@
-# What determines movie succes? A Bayesian approach
+# What determines movie succes? A Bayesian approach from scratch.
 This repository contains several materials with which Bayesian Inference is done. Two multiple regression models, out of which one including an interaction term, are fitted specified and sampled within a Bayesian framework. Coefficients are sampled from the conditional posteriors by means of Gibbs sampling, and Metropolis Hasting sampling for a single parameter. Hereafter, convergence is assessed, and several inferences are done in a Bayesian way. For more information on the specifics of the data and the research question, please consult `report.pdf`. All code with which the coefficients are sampled and inferences are managed are programmed by Bart-Jan Boverhof.
 
 ## Content: 
